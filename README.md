@@ -123,7 +123,9 @@ bash
 
 # Clone the repository
 git clone https://github.com/JULIASIV/EDS
-cd edr-system
+
+then you must go to your directry which contains the cloned directry 
+# cd downloads/edr-system
 
 # Start the development environment
 docker-compose -f docker-compose.dev.yml up -d
