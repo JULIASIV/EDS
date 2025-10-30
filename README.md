@@ -122,7 +122,7 @@ Development Deployment
 bash
 
 # Clone the repository
-git clone https://github.com/your-org/edr-system.git
+git clone https://github.com/JULIASIV/EDS
 cd edr-system
 
 # Start the development environment
